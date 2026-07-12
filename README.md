@@ -32,6 +32,12 @@ Master's in Cybersecurity - Curious mind. Security Mindset. Endless tabs open.
 
 ---
 
+## Notes & Writing
+
+📓 **[PentestNotes](https://github.com/mmj0x0/PentestNotes)** - a living collection of offensive security notes covering web application, API, and hardware/ICS pentesting methodology, payloads, and lab walkthroughs. Written to be a quick-recall reference during engagements and CTFs - feel free to browse if it's useful for your own work.
+
+---
+
 *"The best lessons are usually hidden behind  the problems nobody wants to solve!"*  
 *- Seedon D.*
 
