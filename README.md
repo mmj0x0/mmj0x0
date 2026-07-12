@@ -1,5 +1,5 @@
 
-<img src="/asset/unicorn.png"  width="120" /><img src="/asset/rainbow.png"  width="120" /><img src="/asset/sparkles.png"  width="120" /><img src="/asset/crown.png"  width="120" />
+<img src="/asset/unicorn.png"  width="120" /><img src="/asset/rainbow.png"  width="120" /><img src="/asset/sparkles.png"  width="120" /><img src="/asset/crown.png"  width="120" /><img src="/asset/cartoon.jpeg"  width="120" /><img src="/asset/cuttecore.jpeg"  width="120" /><img src="/asset/frog.jpeg"  width="120" />
 
 Industrial Penetration Tester (Intern) at Festo securing industrial automation systems.
 Master's in Cybersecurity - Curious mind. Security Mindset. Endless tabs open.
