@@ -32,6 +32,18 @@ Master's in Cybersecurity - Curious mind. Security Mindset. Endless tabs open.
 
 ---
 
+## Contributions
+
+🛰️ **[Farsight](https://github.com/seedon198/Farsight)** - Recon and Threat Intelligence Framework, presented at **BlackHat Arsenal 2025** and **DEF CON 34 AppSec Village**. Contributor.
+
+---
+
+## Projects
+
+🛡️ **[CRA-Compliance-Check](https://github.com/mmj0x0/CRA-Compliance-Check)** - a CLI that scores a project against Cyber Resilience Act (CRA) Annex I requirements from an SBOM file or a public GitHub/GitLab repo URL, checking SBOM completeness, known-vulnerability handling (via OSV.dev), disclosure policy, secure update/config signals, logging, and support-period documentation.
+
+---
+
 ## Notes & Writing
 
 📓 **[PentestNotes](https://github.com/mmj0x0/PentestNotes)** - a living collection of offensive security notes covering web application, API, and hardware/ICS pentesting methodology, payloads, and lab walkthroughs. Written to be a quick-recall reference during engagements and CTFs - feel free to browse if it's useful for your own work.
